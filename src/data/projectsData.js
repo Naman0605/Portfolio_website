@@ -11,7 +11,7 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Employee Management',
+        projectName: 'Movie Recommendation System',
         projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
         tags: ['React', 'CSS', 'Material Ui'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
@@ -20,16 +20,16 @@ export const projectsData = [
     },
     {
         id: 2,
-        projectName: 'Railway Tracking',
-        projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-        tags: ['Django', 'Tailwind CSS'],
+        projectName: 'Housing price prediction',
+        projectDesc: 'Developed advanced ML model for accurate housing price predictions and enhanced performance through insightful data analysis.',
+        tags: ['python ,numpy ,pandas , matplotlib, seaborn , sklearn'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: two
     },
     {
         id: 3,
-        projectName: 'Weather App',
+        projectName: 'Twitter Sentimental Analysis',
         projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
         tags: ['Django', 'CSS', 'Material Ui'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',

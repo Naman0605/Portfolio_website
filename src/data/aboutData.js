@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
+    description1: "I am Tejaswi Deshmukh, a dedicated data scientist with expertise in Python",
+    description2: "Currently, I serve as the CTO & COO of MyPrega, where I oversee the strategic direction and operation of the company. I have a strong knowledge of data structures and algorithms and experience in developing machine learning models and conducting exploratory data analysis. I am passionate about bridging the gap between education and industry requirements and committed to developing strong problem-solving skills. In my previous role, I was an Undergraduate Teaching Assistant at Coding Ninjas, where I supported students in mastering Python programming and delivered a world-class learning experience.",
     image: 2
 }
